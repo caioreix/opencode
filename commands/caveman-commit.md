@@ -1,5 +1,6 @@
 ---
 description: Generate a terse caveman-style commit message for staged changes
+model: opencode/deepseek-v4-flash-free
 ---
 Generate a commit message for the current staged changes.
 
