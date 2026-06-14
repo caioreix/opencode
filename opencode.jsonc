@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "@warp-dot-dev/opencode-warp"
+  ],
+  "mcp": {},
+  "instructions": [
+    "AGENTS.md"
+  ]
+}
