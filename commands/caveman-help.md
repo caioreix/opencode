@@ -1,5 +1,6 @@
 ---
 description: Quick reference card for caveman modes, slash commands, and triggers
+model: opencode/deepseek-v4-flash-free
 ---
 Show the caveman quick-reference card.
 

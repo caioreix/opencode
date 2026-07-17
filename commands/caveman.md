@@ -1,5 +1,7 @@
 ---
 description: Activate caveman compression mode (lite | full | ultra | wenyan | off)
+allwaysApply: true
+model: opencode/deepseek-v4-flash-free
 ---
 Activate caveman mode: $ARGUMENTS
 

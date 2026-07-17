@@ -1,5 +1,6 @@
 ---
 description: Show caveman lifetime token-savings stats
+model: opencode/deepseek-v4-flash-free
 ---
 Show caveman stats — total tokens saved, sessions, average compression ratio.
 
