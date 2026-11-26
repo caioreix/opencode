@@ -16,7 +16,7 @@
     },
     "pencil": {
       "command": [
-        "c:\\Users\\caio_\\.vscode\\extensions\\highagency.pencildev-0.6.61\\out\\mcp-server-windows-x64.exe",
+        "c:\\Users\\caio_\\.vscode\\extensions\\highagency.pencildev-0.6.78\\out\\mcp-server-windows-x64.exe",
         "--app",
         "visual_studio_code",
         "--agent",

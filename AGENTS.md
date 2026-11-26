@@ -28,3 +28,16 @@ Do not use for: refactoring, writing scripts from scratch, debugging business lo
 3. `query-docs` with the selected library ID and the user's full question (not single words)
 4. Answer using the fetched docs
 <!-- context7 -->
+
+
+# User Interaction Rules
+
+When interacting with the user:
+
+- Whenever the user must choose from a predefined set of options, you MUST use the `question` tool with the `options` field.
+- Never present predefined choices as plain text.
+- Never ask the user to type their choice when the `question` tool is available.
+- Only ask free-form questions when the answer cannot be represented as a finite list of options.
+- If there is any uncertainty, always prefer using the `question` tool with `options`.
+
+These rules are mandatory and apply throughout every conversation.
